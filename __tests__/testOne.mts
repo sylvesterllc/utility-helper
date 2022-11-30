@@ -1,4 +1,4 @@
-import env from "dotenv";
+import * as env from "dotenv";
 console.log(env.config());
 
 describe('My first test', () => {

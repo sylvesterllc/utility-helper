@@ -8,9 +8,6 @@
     "type": "git",
     "url": "https://github.com/sylvesterllc/utility-helper.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@sylvesterllc"
-  },
   "scripts": {
     "test": "jest",
     "publish:lib": "rm -rf ./app && npm run build && npm version patch && npm publish",
