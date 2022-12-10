@@ -1,6 +1,6 @@
 {
   "name": "@sylvesterllc/utility-helper",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Utility Helper Library for random task",
   "main": "app/index.js",
   "type": "module",
@@ -16,8 +16,8 @@
   "keywords": [],
   "author": "Davis Sylvester <davis@sylvesterllc.com>",
   "license": "ISC",
-  "dependencies": {    
-    "@cucumber/cucumber": "^8.9.0",    
+  "dependencies": {
+    "@cucumber/cucumber": "^8.9.0",
     "dotenv": "^16.0.3",
     "luxon": "^3.1.0"
   },
