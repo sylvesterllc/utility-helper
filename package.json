@@ -1,6 +1,6 @@
 {
   "name": "@sylvesterllc/utility-helper",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Utility Helper Library for random task",
   "main": "app/index.mjs",
   "type": "module",
